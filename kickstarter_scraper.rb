@@ -13,7 +13,7 @@ def create_project_hash
   kickstarter=Nokogiri::HTML(html)
   projects= {}
   
-  k
+  
 end
 
 create_project_hash
