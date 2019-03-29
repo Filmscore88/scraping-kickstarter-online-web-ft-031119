@@ -1,5 +1,6 @@
 require 'nokogiri'
 require 'pry'
+require_relative '../kickstarter_scraper'
 
 #projects: kickstarter.css("li.project.grid_4")
 # title: project.css("h2.bbcard_name strong a").text
